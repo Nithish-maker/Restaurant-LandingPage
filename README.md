@@ -1,6 +1,6 @@
 # Restaurant-LandingPage 🚀
 ```
-A Modern Restuarant Landing Page built using ReactJs
+A Modern Restaurant Landing Page built using ReactJs
 ```
 # [Live Site](https://nithish-maker.github.io/Restaurant-LandingPage/) :rocket:
 
