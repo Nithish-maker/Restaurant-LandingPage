@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Restaurant-LandingPage/static/css/main.c5a38968.chunk.css",
+    "main.js": "/Restaurant-LandingPage/static/js/main.0172ace4.chunk.js",
+    "main.js.map": "/Restaurant-LandingPage/static/js/main.0172ace4.chunk.js.map",
+    "runtime-main.js": "/Restaurant-LandingPage/static/js/runtime-main.68badf23.js",
+    "runtime-main.js.map": "/Restaurant-LandingPage/static/js/runtime-main.68badf23.js.map",
+    "static/js/2.7ad95ead.chunk.js": "/Restaurant-LandingPage/static/js/2.7ad95ead.chunk.js",
+    "static/js/2.7ad95ead.chunk.js.map": "/Restaurant-LandingPage/static/js/2.7ad95ead.chunk.js.map",
+    "index.html": "/Restaurant-LandingPage/index.html",
+    "static/css/main.c5a38968.chunk.css.map": "/Restaurant-LandingPage/static/css/main.c5a38968.chunk.css.map",
+    "static/js/2.7ad95ead.chunk.js.LICENSE.txt": "/Restaurant-LandingPage/static/js/2.7ad95ead.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/Restaurant-LandingPage/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/Restaurant-LandingPage/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/Restaurant-LandingPage/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/Restaurant-LandingPage/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/Restaurant-LandingPage/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/Restaurant-LandingPage/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/Restaurant-LandingPage/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/Restaurant-LandingPage/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/Restaurant-LandingPage/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/Restaurant-LandingPage/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/Restaurant-LandingPage/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/Restaurant-LandingPage/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/Restaurant-LandingPage/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/Restaurant-LandingPage/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/Restaurant-LandingPage/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/Restaurant-LandingPage/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/Restaurant-LandingPage/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/Restaurant-LandingPage/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/Restaurant-LandingPage/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.d079f43f.svg": "/Restaurant-LandingPage/static/media/spoon.d079f43f.svg",
+    "static/media/welcome.d724eb98.png": "/Restaurant-LandingPage/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68badf23.js",
+    "static/js/2.7ad95ead.chunk.js",
+    "static/css/main.c5a38968.chunk.css",
+    "static/js/main.0172ace4.chunk.js"
+  ]
+}
