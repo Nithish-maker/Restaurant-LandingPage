@@ -2,19 +2,17 @@
 ```
 A Modern Restuarant Landing Page built using ReactJs
 ```
-
-## Output  🤩 ☺
+# [Live Site](https://nithish-maker.github.io/Restaurant-LandingPage/) :rocket:
 
 ## ScreenShots
 
+<img src="output/lander-1.png" width="90%" height="90%" alt="img-output1">
 
+<img src="output/lander-2.png" width="90%" height="90%" alt="img-output2">
 
+<img src="output/lander-3.png" widht="90%" height="90%" alt="img-output3">
 
-
-
-
-
-
+<img src="output/lander-4.png" widht="90%" height="90%" alt="img-output4">
 
 ## Installation 🖥️
 
